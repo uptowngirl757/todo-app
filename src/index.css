@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+body {
+  font-family: 'Josefin sans', sans-serif;
+}
+@theme {
+  /* --background-gradient: linear-gradient(
+    to right,
+    hsl(192, 100%, 67%),
+    hsl(280, 87%, 65%)
+  ); */
+}
